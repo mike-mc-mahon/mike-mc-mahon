@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## My Interests
+I am an economist with a particular interest in how digital technologies are impacting firms and the economy more broadly. 
 
-You can use the [editor on GitHub](https://github.com/mike-mc-mahon/mike-mc-mahon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I believe that digital technologies are having important impacts on competition between firms due to their heterogeneous effects on firms of different sizes and capabilities. I also believe that these impacts could be accentuated as technologies such as AI and machine learning develop. This has led me to pursue a PhD in economics under [Prof. Stephen Kinsella](https://twitter.com/stephenkinsella?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) (University of Limerick) and [Prof. Eleanor Doyle](https://www.cubsucc.com/faculty-directory/dr-eleanor-doyle/) (University College Cork).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My PhD
+My research examines if digital technologies are changing the nature of economic competition by enabling larger firms to achieve greater levels of market power and profitability.
 
-### Markdown
+A number of studies show that levels of market power are increasing in advanced economies (as evidenced by increased concentration, higher profitability, lower business dynamism and greater productivity dispersion). It is notable that these trends are more prevalent in technology intensive sectors. This may be driven the characteristics of digital technologies, and intangible assets more generally.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Both digital and intangible assets have a number of characteristics that may make them more impactful in larger firms. These changes may be altering competitive dynamics by reducing some of the traditional diseconomies of scale and enhancing some of the traditional benefits. This is resulting in greater returns to scale than seen previously. Looking ahead, the emergence of Artificial Intelligence (AI) and Robotics may exacerbate the phenomenon.
 
-```markdown
-Syntax highlighted code block
+My work also assesses the implications of digitalisation for public policy. If digital technologies impact smaller and larger firms in a heterogeneous manner, then public policy must be tailored to account for these differences. IF it is not, then the current trends of increased concentration, lower business dynamism and greater productivity dispersion are likely to continue.
 
-# Header 1
-## Header 2
-### Header 3
+## My Background
+Before starting the PhD, I worked in a number of roles in finance and consulting. The last 7 of those years were spent as a strategy consultant with Deloitte. I worked with many different firms, both large and small and across a range of industries. This gave me an appreciation of the importance of firm heterogeneity, and the interplay between management capability, organisational structures and technology. An internal role with Deloitte also led me to think more deeply around questions of scale - how large firms can use their internal and external networks to maximise the benefits of their size - and the role technology plays in this.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mike-mc-mahon/mike-mc-mahon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
