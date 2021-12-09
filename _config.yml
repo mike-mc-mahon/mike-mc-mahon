@@ -1,8 +1,0 @@
-# basic options
-title: Michael McMahon
-email: michael_mc_mahon@outlook.ie
-github_username:  mike-mc-mahon
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-slate
